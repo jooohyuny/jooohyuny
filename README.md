@@ -2,7 +2,7 @@
 
 https://velog.io/@harry__
 <div align="center">
-  <p><h2>🦊Hi there! I'm jooohyuny.🦊</h2></p>
+  <p><h2>🙌Hi there! I'm jooohyuny.</h2></p>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
   <p>Please give me a lot of feedback and advice for my continued development.💬</p>
   <a href="[https://www.notion.so/Joo-Library-86519211a32a4bb681da8f619b952d3e?pvs=4](https://velog.io/@harry__)">
