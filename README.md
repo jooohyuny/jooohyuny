@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"https://velog.io/@harry__"
+<a href="https://velog.io/@harry__">velog link<a>
 <div align="center">
   <p><h2>🙌Hi there! I'm jooohyuny.</h2></p>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
