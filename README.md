@@ -5,7 +5,7 @@
   <p><h2>🙌Hi there! I'm jooohyuny.</h2></p>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
   <p>Please give me a lot of feedback and advice for my continued development.💬</p>
-  <a href="[https://www.notion.so/Joo-Library-86519211a32a4bb681da8f619b952d3e?pvs=4](https://velog.io/@harry__)">
+  <a href="https://velog.io/@harry__">
     <img src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png"/>
   </a>
 </div>
